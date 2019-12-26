@@ -43,6 +43,7 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation "com.google.android.gms:play-services-location:15.0.1"
     implementation 'com.karumi:dexter:5.0.0'
+    implementation 'androidx.core:core:1.0.1'
 }
 
 apply plugin: 'kotlin-android-extensions'
